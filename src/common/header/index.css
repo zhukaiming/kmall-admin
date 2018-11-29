@@ -1,0 +1,14 @@
+
+
+.Header .dropdown{
+	float: right;
+}
+.Header .logo{
+  width: 120px;
+  height: 31px;
+  /*background: rgba(255,255,255,.2);  */
+  margin: 5px 28px 16px 0;
+  float: left;	
+  color: #fff;
+  font-size: 30px;
+}

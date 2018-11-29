@@ -1,0 +1,10 @@
+
+.login{
+	width: 260px;
+	margin-top: 10px;
+}
+ .login .login-form{
+ 	background: rgba(0,0,0,0.5); 
+	padding: 20px;
+	border-radius: 10px;
+ }

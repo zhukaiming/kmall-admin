@@ -1,0 +1,11 @@
+
+
+.Sider a.active{
+	color: red;
+}
+.Sider .ant-menu-item-selected {
+	background: transparent !important;
+}
+.Sider .ant-menu-item-selected:after{
+	border-right: none;
+}
