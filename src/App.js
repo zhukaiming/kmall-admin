@@ -1,6 +1,5 @@
-
+//管理员后台
 import React,{Component} from 'react';
-
 import Login from 'pages/login';
 import Home from 'pages/home';
 import User from 'pages/user';
@@ -61,5 +60,5 @@ class App extends Component{
 		)
 	}
 }
-
+//
 export default App;
